@@ -98,9 +98,11 @@ a{
   margin: 0;
   margin-left: 5px;
   line-height: 75px;
+  white-space: nowrap;
 }
 .show.list .item h4, .showHeader h4{
   margin-left: 80px;
+  font-weight: normal;
 }
 .date{
   position: absolute;
