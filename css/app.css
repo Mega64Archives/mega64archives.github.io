@@ -88,6 +88,17 @@ a{
   display: block;
   color: #ccc;
 }
+.list .item > h4{
+  border-bottom: solid 1px #313131;
+  border-top: solid 1px #000;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: block;
+  color: #ccc;
+}
 .list .item a:visited{
   color: #ccc;
 }
