@@ -5,6 +5,7 @@ body{
   margin: 0;
   padding: 0;
   border: 0;
+  max-width: 100%;
 }
 *{
   margin: 0;
@@ -97,9 +98,9 @@ a{
 .list .item h4{
   display: inline-block;
   margin: 0;
+  position: relative;
+  top: 29px;
   margin-left: 5px;
-  line-height: 75px;
-  white-space: nowrap;
 }
 .show.list .item h4, .showHeader h4{
   margin-left: 80px;
