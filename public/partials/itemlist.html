@@ -1,7 +1,0 @@
-<div class='showHeader'><a href='#/{{show.id}}'><img src='/img/{{show.id}}.jpg'><h4>{{show.name}}</h4>
-<p>{{show.desc}}</p></a></div>
-<ol class='list'>
-	<li ng-repeat='item in show.list | orderBy:"date":true' class='item'>
-		<a href='#/{{show.id}}/{{item.id}}'><h4>{{item.name}}</h4><span class='date'>{{item.date | date : 'MM.dd.yy'}}</span></a>
-	</li>
-</ol>
