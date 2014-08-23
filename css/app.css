@@ -37,7 +37,7 @@ a{
   top:84px;
   left:0;
   right:0;
-  bottom:0;
+  bottom: initial;
 }
 
 .view-animate.ng-enter {
