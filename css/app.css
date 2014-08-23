@@ -122,6 +122,7 @@ a{
   width: 100%;
   color: white;
   height: 81px;
+  font-weight: normal;
 }
 a:visited, a:hover{
   color: inherit;

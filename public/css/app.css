@@ -54,6 +54,7 @@ a{
 }
 .title h1{
   margin: 10px;
+  font-weight: normal;
 }
 .list{
   list-style: none;
