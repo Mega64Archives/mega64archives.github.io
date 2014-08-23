@@ -740,7 +740,7 @@
       },
       {
         "id":"29",
-        "date":1325491200000,
+        "date":1357113600000,
         "name":"PPS 29",
         "links":[
           {
@@ -1714,7 +1714,7 @@
   {
     "id":"EPOD",
     "name":"Podcasts",
-    "desc":"The boyz and guests weekly podcast.",
+    "desc":"The boyz' weekly podcast.",
     "list":[
       {
         "id":"1",
