@@ -6,8 +6,7 @@
 	</li>
 	<li ng-repeat='link in episode.links' class='item'>
 		<div ng-if='link.links.length > 1' class='item'>
-			<h4>{{link.name}}</h4>
-			<ol class='list'><li ng-repeat='a in link.links track by $index' class='item'><a href='{{a.link}}'><h4>{{$index+1}}</h4></a></li></ol>
+			<ol class='list'><li class='item'><h4>{{link.name}}</h4></li><li ng-repeat='a in link.links track by $index' class='item'><a href='{{a.link}}'><h4>{{$index+1}}</h4></a></li></ol>
 		</div>
 		<div ng-if='link.links.length == 1' class='item'>
 			<a href='{{link.links[0]}}'><h4>{{link.name}}</h4></a>
