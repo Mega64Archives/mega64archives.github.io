@@ -50,6 +50,8 @@ a{
 .title{
   border-bottom: 3px solid #ee4443;
   position: fixed;
+  z-index: 1000;
+  background-color: black;
   left: 0;
   right: 0;
   top: 0;
