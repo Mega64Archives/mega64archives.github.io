@@ -39,13 +39,13 @@ a{
 .view-animate.ng-enter {
   top: 84px;
   position: fixed;
-  left:100%;
+  translate3d(100%, 0, 0)
 }
 .view-animate.ng-enter.ng-enter-active {
-  left:0;
+  translate3d(0, 0, 0)
 }
 .view-animate.ng-leave.ng-leave-active {
-  left:-100%;
+  translate3d(-100%, 0, 0)
 }
 .title{
   border-bottom: 3px solid #ee4443;
