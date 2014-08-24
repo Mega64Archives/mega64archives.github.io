@@ -166,3 +166,21 @@ a:visited, a:hover{
 .showHeader{
   height: 75px;
 }
+
+.list.search{
+  position: fixed;
+  left: 0;
+  right: 0;
+  height: 75px;
+  bottom:0;
+}
+
+.list.search input{
+  border:; 10px solid #222;
+  font-size: 16px;
+  font-family: PressStartKRegular;
+  height:100%;
+  width: 100%;
+  left: -3px;
+  position: relative;
+}
