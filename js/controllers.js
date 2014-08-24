@@ -21,4 +21,7 @@ angular.module('Mega64.controllers', [])
   			}
   		}
   	});
+    $scope.go = function(dir){
+      $scope.left = (dir === 'left');
+    }
   }]);

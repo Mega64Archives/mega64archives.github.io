@@ -21,11 +21,11 @@ a{
   overflow:hidden;
 }
 
-.view-animate {
+#view-animate-container .view-animate {
   padding:0;
 }
 
-.view-animate.ng-enter, .view-animate.ng-leave {
+#view-animate-container .view-animate.ng-enter, .view-animate.ng-leave > *{
   -webkit-transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) .5s;
   transition:all cubic-bezier(0.250, 0.460, 0.450, 0.940) .5s;
 
@@ -40,14 +40,23 @@ a{
   bottom: initial;
 }
 
-.view-animate.ng-enter {
+#view-animate-container .left.view-animate.ng-enter {
   left:100%;
 }
-.view-animate.ng-enter.ng-enter-active {
+#view-animate-container .left.view-animate.ng-enter.ng-enter-active {
   left:0;
 }
-.view-animate.ng-leave.ng-leave-active {
+#view-animate-container .left.view-animate.ng-leave.ng-leave-active {
   left:-100%;
+}
+#view-animate-container .right.view-animate.ng-enter {
+  right:100%;
+}
+#view-animate-container .right.view-animate.ng-enter.ng-enter-active {
+  right:0;
+}
+#view-animate-container .right.view-animate.ng-leave.ng-leave-active {
+  right:-100%;
 }
 .title{
   border-bottom: 3px solid #ee4443;
