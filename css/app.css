@@ -167,9 +167,12 @@ a:visited, a:hover{
   height: 75px;
 }
 
+.item.search{
+  height: 75px;
+}
 
 .item.search input{
-  border:; 10px solid #222;
+  border: 10px solid #222;
   font-size: 16px;
   font-family: PressStartKRegular;
   height:100%;
