@@ -46,7 +46,7 @@ a{
 #view-animate-container .left.view-animate.ng-enter.ng-enter-active, #view-animate-container .view-animate.ng-enter.ng-enter-active{
   left:0;
 }
-#view-animate-container .left.view-animate.ng-leave.ng-leave-active, #view-animate-container .view-animate.ng-leave.ng-leave-active {
+#view-animate-container .left.view-animate.ng-leave.ng-leave-active, #view-animate-container .view-animate.ng-leave.ng-leave-active{
   left:-100%;
 }
 #view-animate-container .right.view-animate.ng-enter {
