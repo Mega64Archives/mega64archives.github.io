@@ -4,7 +4,4 @@
 	<li ng-repeat='item in show.list | orderBy:date:true | filter:searchString' class='item'>
 		<a ng-href='#/{{show.id}}/{{item.id}}'><h4>{{item.name}}</h4><span class='date'>{{item.date | date : 'MM.dd.yy'}}</span></a>
 	</li>
-	<li class='item search'>
-		<input type='text' placeholder='Search' ng-model='searchString'>
-	</li>
 </ol>
