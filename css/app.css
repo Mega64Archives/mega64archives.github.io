@@ -167,13 +167,6 @@ a:visited, a:hover{
   height: 75px;
 }
 
-.item.search{
-  position: fixed;
-  left: 0;
-  right: 0;
-  height: 75px;
-  bottom:0;
-}
 
 .item.search input{
   border:; 10px solid #222;
