@@ -50,6 +50,10 @@ a{
 }
 .title{
   border-bottom: 3px solid #ee4443;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
 }
 .title h1{
   margin: 10px;
