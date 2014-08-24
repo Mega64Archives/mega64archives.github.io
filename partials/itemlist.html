@@ -2,6 +2,6 @@
 <p>{{show.desc}}</p></div>
 <ol class='list'>
 	<li ng-repeat='item in show.list | orderBy:"date":true' class='item'>
-		<a ng-href='#/{{show.id}}/{{item.id}}' ng-click='go("left")'><h4>{{item.name}}</h4><span class='date'>{{item.date | date : 'MM.dd.yy'}}</span></a>
+		<a ng-href='#/{{show.id}}/{{item.id}}'><h4>{{item.name}}</h4><span class='date'>{{item.date | date : 'MM.dd.yy'}}</span></a>
 	</li>
 </ol>

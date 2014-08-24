@@ -6,7 +6,6 @@ angular.module('Mega64.controllers', [])
   .controller('ShowCtrl', ['$scope', '$routeParams', '$location', 'archives', function($scope, $routeParams, $location, archives) {
   	$scope.showId = $routeParams.show;
   	$scope.episodeId = $routeParams.episode;
-    $scope.left = true;
   	archives(function(d){
       $scope.shows = d;
   		if($scope.showId){
@@ -22,7 +21,4 @@ angular.module('Mega64.controllers', [])
   			}
   		}
   	});
-    $scope.go = function(dir){
-      $scope.left = (dir === 'left');
-    }
   }]);
