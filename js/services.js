@@ -24,13 +24,11 @@ angular.module('Mega64.services', [])
 		}
 	}])
 	.directive("scroll", function ($window) {
+	scope.limit = 20;
     return function(scope, element, attrs) {
         angular.element($window).bind("scroll", function() {
-        	console.log('test');
-        	console.log($window);
-        	console.log(this);
-             if (this.pageYOffset >= 100) {
-             
+             if (this.scrollTop + this.offsetHeight > this.scrollHeight) {
+             	scope.$apply(function(){scope.limit += 5});
              }
         });
     };
