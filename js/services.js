@@ -26,11 +26,11 @@ angular.module('Mega64.services', [])
 	.directive("scroll", function ($window) {
     return function(scope, element, attrs) {
         angular.element($window).bind("scroll", function() {
+        	console.log('test');
+        	console.log($window);
         	console.log(this);
-        	console.log(angular);
              if (this.pageYOffset >= 100) {
-                 scope.boolChangeClass = true;
-                 console.log('Scrolled below header.');
+             
              }
         });
     };
