@@ -28,7 +28,7 @@ angular.module('Mega64.services', [])
     	scope.limit = 20;
     	console.log(scope);
         angular.element($window).bind("scroll", function() {
-             if ($(window).scrollTop() + $(window).height() > $(document).height() - 100)) {
+             if ($(window).scrollTop() + $(window).height() > $(document).height() - 100) {
              	scope.$apply(function(scope){scope.limit += 5});
              }
         });
