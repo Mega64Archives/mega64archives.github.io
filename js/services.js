@@ -29,7 +29,7 @@ angular.module('Mega64.services', [])
     	console.log(scope);
         angular.element($window).bind("scroll", function() {
              if ($(window).scrollTop() + $(window).height() > $(document).height() - 100) {
-             	scope.$apply(function(scope){scope.limit += 5});
+             	scope.$apply(function(scope){scope.limit += 20});
              }
         });
     };
