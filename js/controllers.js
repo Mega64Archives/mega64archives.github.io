@@ -9,7 +9,9 @@ angular.module('Mega64.controllers', [])
     $scope.searchString = {name: ''};
     $scope.limit = 20;
     $scope.showMore = function(){
-      $scope.limit += 5;
+      $scope.limit = $scope.limit + 5;
+      console.log('test');
+      
     };
   	archives(function(d){
       $scope.shows = d;
