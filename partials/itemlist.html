@@ -1,10 +1,10 @@
 <div class='showHeader'><img ng-src='/img/{{show.id}}.jpg'><h4>{{show.name}}</h4>
 <p>{{show.desc}}</p></div>
-<ol scroll class='list' scrolly="showMore()">
+<ol class='list'>
 	<li class='item search'>
 		<input type='text' placeholder='Search' ng-model='searchString.name'>
 	</li>
-	<li ng-repeat='item in show.list | orderBy:"date":true | filter:searchString | limitTo: limit' class='item'>
+	<li ng-repeat='item in show.list | orderBy:"date":true | filter:searchString' class='item'>
 		<a href='#/{{show.id}}/{{item.id}}'><h4>{{item.name}}</h4><span class='date'>{{item.date | date : 'MM.dd.yy'}}</span></a>
 	</li>
 </ol>
