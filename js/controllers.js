@@ -8,6 +8,9 @@ angular.module('Mega64.controllers', [])
   	$scope.episodeId = $routeParams.episode;
     $scope.searchString = {name: ''};
     $scope.limit = 20;
+    $scope.showMore = function(){
+      $scope.limit += 5;
+    };
   	archives(function(d){
       $scope.shows = d;
   		if($scope.showId){
