@@ -23,17 +23,15 @@ angular.module('Mega64.services', [])
 			}
 		}
 	}])
-	.directive('scrolly', function () {
-    return {
-        restrict: 'A',
-        link: function (scope, element, attrs) {
-            var raw = element[0];
-                
-            element.bind('scroll', function () {
-                if (raw.scrollTop + raw.offsetHeight > raw.scrollHeight) {
-                    scope.$apply(attrs.scrolly);
-                }
-            });
-        }
+	.directive("scroll", function ($window) {
+    return function(scope, element, attrs) {
+        angular.element($window).bind("scroll", function() {
+        	console.log(this);
+        	console.log(angular);
+             if (this.pageYOffset >= 100) {
+                 scope.boolChangeClass = true;
+                 console.log('Scrolled below header.');
+             }
+        });
     };
 });
