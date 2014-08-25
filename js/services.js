@@ -26,9 +26,8 @@ angular.module('Mega64.services', [])
 	.directive("scroll", function ($window) {
     return function(scope, element, attrs) {
     	scope.limit = 20;
-    	console.log(scope);
         angular.element($window).bind("scroll", function() {
-             if ($(window).scrollTop() + $(window).height() > $(document).height() - 10) {
+             if (($(window).scrollTop() + $(window).height()) > ($(document).height() - 10)) {
              	scope.$apply(function(scope){scope.limit += 10});
              }
         });
