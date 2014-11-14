@@ -336,7 +336,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=nPTeer-Igf0"
+                        "links": [
+                            "https://www.youtube.com/watch?v=nPTeer-Igf0"
+                        ]
                     }
                 ]
             },
@@ -347,7 +349,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=XBJ5d3h7Kt4"
+                        "links": [
+                            "https://www.youtube.com/watch?v=XBJ5d3h7Kt4"
+                        ]
                     }
                 ]
             },
@@ -358,7 +362,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=ERDxPjcvShw"
+                        "links": [
+                            "https://www.youtube.com/watch?v=ERDxPjcvShw"
+                        ]
                     }
                 ]
             },
@@ -369,7 +375,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=dtXfbbf_wVA"
+                        "links": [
+                            "https://www.youtube.com/watch?v=dtXfbbf_wVA"
+                        ]
                     }
                 ]
             },
@@ -380,7 +388,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=2XSpFa_Ocxw"
+                        "links": [
+                            "https://www.youtube.com/watch?v=2XSpFa_Ocxw"
+                        ]
                     }
                 ]
             },
@@ -391,7 +401,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=T3o77esZmew"
+                        "links": [
+                            "https://www.youtube.com/watch?v=T3o77esZmew"
+                        ]
                     }
                 ]
             },
@@ -402,7 +414,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=OSPk6mZA8Qc"
+                        "links": [
+                            "https://www.youtube.com/watch?v=OSPk6mZA8Qc"
+                        ]
                     }
                 ]
             },
@@ -413,7 +427,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=vzot4vdekYc"
+                        "links": [
+                            "https://www.youtube.com/watch?v=vzot4vdekYc"
+                        ]
                     }
                 ]
             },
@@ -424,7 +440,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=RNB0qpjgdP0"
+                        "links": [
+                            "https://www.youtube.com/watch?v=RNB0qpjgdP0"
+                        ]
                     }
                 ]
             },
@@ -435,7 +453,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=tmNeyeaLwpg"
+                        "links": [
+                            "https://www.youtube.com/watch?v=tmNeyeaLwpg"
+                        ]
                     }
                 ]
             },
@@ -472,7 +492,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=JAccFdjfXoo"
+                        "links": [
+                            "https://www.youtube.com/watch?v=JAccFdjfXoo"
+                        ]
                     }
                 ]
             },
@@ -483,7 +505,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=N-zVWb0BsUw"
+                        "links": [
+                            "https://www.youtube.com/watch?v=N-zVWb0BsUw"
+                        ]
                     }
                 ]
             },
@@ -494,7 +518,9 @@
                 "links": [
                     {
                         "name": "Youtube",
-                        "links": "https://www.youtube.com/watch?v=SikW-2_KaZM"
+                        "links": [
+                            "https://www.youtube.com/watch?v=SikW-2_KaZM"
+                        ]
                     }
                 ]
             }
@@ -1813,7 +1839,9 @@
                 "links": [
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/Mega64PoorlyPlayedStream99TheLastOfUs08.20.14_201408/Mega64%20Poorly%20Played%20Stream%21%2099%20The%20Last%20of%20Us%2008.20.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64PoorlyPlayedStream99TheLastOfUs08.20.14_201408/Mega64%20Poorly%20Played%20Stream%21%2099%20The%20Last%20of%20Us%2008.20.14.mov"
+                        ]
                     }
                 ]
             },
@@ -1824,7 +1852,9 @@
                 "links": [
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/Mega64PoorlyPlayedStream100ResidentEvilOperationRaccoonCity08.27.14/Mega64%20Poorly%20Played%20Stream%21%20100%20Resident%20Evil-%20Operation%20Raccoon%20City%2008.27.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64PoorlyPlayedStream100ResidentEvilOperationRaccoonCity08.27.14/Mega64%20Poorly%20Played%20Stream%21%20100%20Resident%20Evil-%20Operation%20Raccoon%20City%2008.27.14.mov"
+                        ]
                     }
                 ]
             },
@@ -1835,7 +1865,9 @@
                 "links": [
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/Mega64PoorlyPlayedStream101ResidentEvilRevelations09.03.14/Mega64%20Poorly%20Played%20Stream%21%20101%20Resident%20Evil-%20Revelations%2009.03.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64PoorlyPlayedStream101ResidentEvilRevelations09.03.14/Mega64%20Poorly%20Played%20Stream%21%20101%20Resident%20Evil-%20Revelations%2009.03.14.mov"
+                        ]
                     }
                 ]
             },
@@ -1846,7 +1878,9 @@
                 "links": [
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/Mega64PoorlyPlayedStream102Destiny09.10.14/Mega64%20Poorly%20Played%20Stream%21%20102%20Destiny%2009.10.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64PoorlyPlayedStream102Destiny09.10.14/Mega64%20Poorly%20Played%20Stream%21%20102%20Destiny%2009.10.14.mov"
+                        ]
                     }
                 ]
             },
@@ -1857,7 +1891,9 @@
                 "links": [
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/Mega64PoorlyPlayedStream103Destiny09.17.14/Mega64%20Poorly%20Played%20Stream%21%20103%20Destiny%2009.17.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64PoorlyPlayedStream103Destiny09.17.14/Mega64%20Poorly%20Played%20Stream%21%20103%20Destiny%2009.17.14.mov"
+                        ]
                     }
                 ]
             },
@@ -1868,7 +1904,9 @@
                 "links": [
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/Mega64PoorlyPlayedStream104DestinyOutlast09.24.14/Mega64%20Poorly%20Played%20Stream%21%20104%20Destiny%20%26%20Outlast%2009.24.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64PoorlyPlayedStream104DestinyOutlast09.24.14/Mega64%20Poorly%20Played%20Stream%21%20104%20Destiny%20%26%20Outlast%2009.24.14.mov"
+                        ]
                     }
                 ]
             },
@@ -1879,7 +1917,9 @@
                 "links": [
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/Mega64PoorlyPlayedStream105Destiny10.01.14/Mega64%20Poorly%20Played%20Stream%21%20105%20Destiny%2010.01.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64PoorlyPlayedStream105Destiny10.01.14/Mega64%20Poorly%20Played%20Stream%21%20105%20Destiny%2010.01.14.mov"
+                        ]
                     }
                 ]
             },
@@ -1890,7 +1930,9 @@
                 "links": [
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/Mega64PoorlyPlayedStream106SuperSmashBros.Brawl10.08.14/Mega64%20Poorly%20Played%20Stream%21%20106%20Super%20Smash%20Bros.%20Brawl%2010.08.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64PoorlyPlayedStream106SuperSmashBros.Brawl10.08.14/Mega64%20Poorly%20Played%20Stream%21%20106%20Super%20Smash%20Bros.%20Brawl%2010.08.14.mov"
+                        ]
                     }
                 ]
             },
@@ -1901,7 +1943,9 @@
                 "links": [
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/Mega64PoorlyPlayedStream107AkibasTripUndeadUndressed10.15.14/Mega64%20Poorly%20Played%20Stream%21%20107%20Akiba%27s%20Trip-%20Undead%20%26%20Undressed%2010.15.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64PoorlyPlayedStream107AkibasTripUndeadUndressed10.15.14/Mega64%20Poorly%20Played%20Stream%21%20107%20Akiba%27s%20Trip-%20Undead%20%26%20Undressed%2010.15.14.mov"
+                        ]
                     }
                 ]
             },
@@ -1912,7 +1956,9 @@
                 "links": [
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/Mega64PoorlyPlayedStream108UltimateMarvelVs.Capcom3TwistedMetal2HotlineMiami10.22.14/Mega64%20Poorly%20Played%20Stream%21%20108%20Ultimate%20Marvel%20vs.%20Capcom%203%2C%20Twisted%20Metal%202%20%26%20Hotline%20Miami%2010.22.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64PoorlyPlayedStream108UltimateMarvelVs.Capcom3TwistedMetal2HotlineMiami10.22.14/Mega64%20Poorly%20Played%20Stream%21%20108%20Ultimate%20Marvel%20vs.%20Capcom%203%2C%20Twisted%20Metal%202%20%26%20Hotline%20Miami%2010.22.14.mov"
+                        ]
                     }
                 ]
             },
@@ -1937,7 +1983,9 @@
                 "links": [
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/Mega64PoorlyPlayedStream110ResidentEvil3Nemesis11.05.14/Mega64%20Poorly%20Played%20Stream%21%20110%20Resident%20Evil%203-%20Nemesis%2011.05.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64PoorlyPlayedStream110ResidentEvil3Nemesis11.05.14/Mega64%20Poorly%20Played%20Stream%21%20110%20Resident%20Evil%203-%20Nemesis%2011.05.14.mov"
+                        ]
                     }
                 ]
             },
@@ -9121,15 +9169,21 @@
                 "links": [
                     {
                         "name": "Audio",
-                        "links": "https://archive.org/download/031708.19.14/0317%2008.19.14.mp3"
+                        "links": [
+                            "https://archive.org/download/031708.19.14/0317%2008.19.14.mp3"
+                        ]
                     },
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/031708.19.14/0317%2008.19.14.mp4"
+                        "links": [
+                            "https://archive.org/download/031708.19.14/0317%2008.19.14.mp4"
+                        ]
                     },
                     {
                         "name": "After Show",
-                        "links": "https://archive.org/download/Mega64Live31708.17.14/Mega64%20Live%21%20317%2008.17.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64Live31708.17.14/Mega64%20Live%21%20317%2008.17.14.mov"
+                        ]
                     }
                 ]
             },
@@ -9140,15 +9194,21 @@
                 "links": [
                     {
                         "name": "Audio",
-                        "links": "https://archive.org/download/031808.26.14/0318%2008.26.14.mp3"
+                        "links": [
+                            "https://archive.org/download/031808.26.14/0318%2008.26.14.mp3"
+                        ]
                     },
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/031808.26.14/0318%2008.26.14.mp4"
+                        "links": [
+                            "https://archive.org/download/031808.26.14/0318%2008.26.14.mp4"
+                        ]
                     },
                     {
                         "name": "After Show",
-                        "links": "https://archive.org/download/Mega64Live31808.24.14/Mega64%20Live%21%20318%2008.24.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64Live31808.24.14/Mega64%20Live%21%20318%2008.24.14.mov"
+                        ]
                     }
                 ]
             },
@@ -9159,15 +9219,21 @@
                 "links": [
                     {
                         "name": "Audio",
-                        "links": "https://archive.org/download/031909.09.14/0319%2009.09.14.mp3"
+                        "links": [
+                            "https://archive.org/download/031909.09.14/0319%2009.09.14.mp3"
+                        ]
                     },
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/031909.09.14/0319%2009.09.14.mp4"
+                        "links": [
+                            "https://archive.org/download/031909.09.14/0319%2009.09.14.mp4"
+                        ]
                     },
                     {
                         "name": "After Show",
-                        "links": "https://archive.org/download/Mega64Live31909.07.14/Mega64%20Live%21%20319%2009.07.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64Live31909.07.14/Mega64%20Live%21%20319%2009.07.14.mov"
+                        ]
                     }
                 ]
             },
@@ -9178,15 +9244,21 @@
                 "links": [
                     {
                         "name": "Audio",
-                        "links": "https://archive.org/download/032009.16.14/0320%2009.16.14.mp3"
+                        "links": [
+                            "https://archive.org/download/032009.16.14/0320%2009.16.14.mp3"
+                        ]
                     },
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/032009.16.14/0320%2009.16.14.mp4"
+                        "links": [
+                            "https://archive.org/download/032009.16.14/0320%2009.16.14.mp4"
+                        ]
                     },
                     {
                         "name": "After Show",
-                        "links": "https://archive.org/download/Mega64Live32009.14.14/Mega64%20Live%21%20320%2009.14.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64Live32009.14.14/Mega64%20Live%21%20320%2009.14.14.mov"
+                        ]
                     }
                 ]
             },
@@ -9197,11 +9269,15 @@
                 "links": [
                     {
                         "name": "Audio",
-                        "links": "https://archive.org/download/032109.23.14/0321%2009.23.14.mp3"
+                        "links": [
+                            "https://archive.org/download/032109.23.14/0321%2009.23.14.mp3"
+                        ]
                     },
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/032109.23.14/0321%2009.23.14.mp4"
+                        "links": [
+                            "https://archive.org/download/032109.23.14/0321%2009.23.14.mp4"
+                        ]
                     }
                 ]
             },
@@ -9212,11 +9288,15 @@
                 "links": [
                     {
                         "name": "Audio",
-                        "links": "https://archive.org/download/032209.30.14_201410/0322%2009.30.14.mp3"
+                        "links": [
+                            "https://archive.org/download/032209.30.14_201410/0322%2009.30.14.mp3"
+                        ]
                     },
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/032209.30.14_201410/0322%2009.30.14.mp4"
+                        "links": [
+                            "https://archive.org/download/032209.30.14_201410/0322%2009.30.14.mp4"
+                        ]
                     }
                 ]
             },
@@ -9227,15 +9307,21 @@
                 "links": [
                     {
                         "name": "Audio",
-                        "links": "https://archive.org/download/032310.14.14/0323%2010.14.14.mp3"
+                        "links": [
+                            "https://archive.org/download/032310.14.14/0323%2010.14.14.mp3"
+                        ]
                     },
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/032310.14.14/0323%2010.14.14.mp4"
+                        "links": [
+                            "https://archive.org/download/032310.14.14/0323%2010.14.14.mp4"
+                        ]
                     },
                     {
                         "name": "After Show",
-                        "links": "https://archive.org/download/Mega64Live32310.12.14/Mega64%20Live%21%20323%2010.12.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64Live32310.12.14/Mega64%20Live%21%20323%2010.12.14.mov"
+                        ]
                     }
                 ]
             },
@@ -9246,15 +9332,21 @@
                 "links": [
                     {
                         "name": "Audio",
-                        "links": "https://archive.org/download/032410.21.14/0324%2010.21.14.mp3"
+                        "links": [
+                            "https://archive.org/download/032410.21.14/0324%2010.21.14.mp3"
+                        ]
                     },
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/032410.21.14/0324%2010.21.14.mp4"
+                        "links": [
+                            "https://archive.org/download/032410.21.14/0324%2010.21.14.mp4"
+                        ]
                     },
                     {
                         "name": "After Show",
-                        "links": "https://archive.org/download/Mega64Live32410.19.14/Mega64%20Live%21%20324%2010.19.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64Live32410.19.14/Mega64%20Live%21%20324%2010.19.14.mov"
+                        ]
                     }
                 ]
             },
@@ -9265,15 +9357,21 @@
                 "links": [
                     {
                         "name": "Audio",
-                        "links": "https://archive.org/download/032510.28.14/0325%2010.28.14.mp3"
+                        "links": [
+                            "https://archive.org/download/032510.28.14/0325%2010.28.14.mp3"
+                        ]
                     },
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/032510.28.14/0325%2010.28.14.mp4"
+                        "links": [
+                            "https://archive.org/download/032510.28.14/0325%2010.28.14.mp4"
+                        ]
                     },
                     {
                         "name": "After Show",
-                        "links": "https://archive.org/download/Mega64Live325SpookCast10.26.14_201410/Mega64%20Live%21%20325%20SpookCast%2010.26.14.mov"
+                        "links": [
+                            "https://archive.org/download/Mega64Live325SpookCast10.26.14_201410/Mega64%20Live%21%20325%20SpookCast%2010.26.14.mov"
+                        ]
                     }
                 ]
             },
@@ -9284,11 +9382,15 @@
                 "links": [
                     {
                         "name": "Audio",
-                        "links": "https://archive.org/download/032611.05.14/0326%2011.05.14.mp3"
+                        "links": [
+                            "https://archive.org/download/032611.05.14/0326%2011.05.14.mp3"
+                        ]
                     },
                     {
                         "name": "Video",
-                        "links": "https://archive.org/download/032611.05.14/0326%2011.05.14.mp4"
+                        "links": [
+                            "https://archive.org/download/032611.05.14/0326%2011.05.14.mp4"
+                        ]
                     }
                 ]
             }
@@ -10259,7 +10361,9 @@
                 "links": [
                     {
                         "name": "Link",
-                        "links": "https://archive.org/download/TheGameIndustryRumbleAtPAXPrime201408.31.14/The%20Game%20Industry%20Rumble%20at%20PAX%20Prime%202014%2008.31.14.mov"
+                        "links": [
+                            "https://archive.org/download/TheGameIndustryRumbleAtPAXPrime201408.31.14/The%20Game%20Industry%20Rumble%20at%20PAX%20Prime%202014%2008.31.14.mov"
+                        ]
                     }
                 ]
             },
@@ -10318,7 +10422,9 @@
                 "links": [
                     {
                         "name": "Link",
-                        "links": "https://archive.org/download/ApparentPortaPottyTheftCaughtOnVideoChannel10News10.20.14/Apparent%20Porta%20Potty%20Theft%20Caught%20on%20Video%20Channel%2010%20News%2010.20.14.mp4"
+                        "links": [
+                            "https://archive.org/download/ApparentPortaPottyTheftCaughtOnVideoChannel10News10.20.14/Apparent%20Porta%20Potty%20Theft%20Caught%20on%20Video%20Channel%2010%20News%2010.20.14.mp4"
+                        ]
                     }
                 ]
             }
