@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'PressStartKRegular';
-    src: url('http://mega64archives.github.io/font/press-start-k.eot');
-    src: url('http://mega64archives.github.io/font/press-start-k.eot') format('embedded-opentype'),
-         url('http://mega64archives.github.io/font/press-start-k.woff') format('woff'),
-         url('http://mega64archives.github.io/font/press-start-k.ttf') format('truetype'),
-         url('http://mega64archives.github.io/font/press-start-k.svg#PressStartKRegular') format('svg');
+    src: url('//mega64archives.github.io/font/press-start-k.eot');
+    src: url('//mega64archives.github.io/font/press-start-k.eot') format('embedded-opentype'),
+         url('//mega64archives.github.io/font/press-start-k.woff') format('woff'),
+         url('//mega64archives.github.io/font/press-start-k.ttf') format('truetype'),
+         url('//mega64archives.github.io/font/press-start-k.svg#PressStartKRegular') format('svg');
 }
